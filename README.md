@@ -59,7 +59,7 @@ Bugungi namoz vaqtlarini olish uchun: https://islomapi.uz/api/present/day?region
 
 Shu hafta uchun namoz taqvimi olish uchun: https://islomapi.uz/api/present/week?region=Toshkent
 
-Bir kun uchun namoz taqvimini olish uchun: https://islomapi.uz/api/daily?region=Toshkent&month=4=4&day=5
+Bir kun uchun namoz taqvimini olish uchun: https://islomapi.uz/api/daily?region=Toshkent&month=4&day=5
 
 Bir oylik namoz taqvimini olish uchun: https://islomapi.uz/api/present/monthly?region=Toshkent&month=4
 
